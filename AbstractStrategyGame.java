@@ -1,9 +1,5 @@
 import java.util.*;
 
-/**
-* A strategy game where all players have perfect information and no theme
-* or narrative around gameplay.
-*/
 public interface AbstractStrategyGame {
     /**
      * Constructs and returns a String describing how to play the game. Should include
